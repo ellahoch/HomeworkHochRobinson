@@ -1,0 +1,21 @@
+---
+title: "Homework1HochRobinson"
+format: html
+editor: visual
+---
+
+## 1
+
+shell is any program that uses command-line as an interface. Bash is a specific type of shell.
+
+## 2
+
+```{bash}
+ls
+
+```
+My home directory is c/Users/ellah/
+
+I found this by typing cd into my bash terminal after navigating to a different folder
+
+
