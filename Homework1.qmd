@@ -18,4 +18,9 @@ My home directory is c/Users/ellah/
 
 I found this by typing cd into my bash terminal after navigating to a different folder
 
+To navigate to my notes I would type cd HomeworkHochRobinson
+
+I cloned the directory into my home directory so that would get me to the folder with my notes. To get back to my home directory I could type cd or cd ..
+
+
 
