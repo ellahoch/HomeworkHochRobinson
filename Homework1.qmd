@@ -2,19 +2,19 @@
 title: "Homework1HochRobinson"
 format: html
 editor: visual
+languages:
+  - name: bash
+    command: bash
+
 ---
 
 ## 1
 
 shell is any program that uses command-line as an interface. Bash is a specific type of shell.
 
-## 1
 
-```{bash}
-ls
-
-```
 My home directory is c/Users/ellah/
+
 
 I found this by typing cd into my bash terminal after navigating to a different folder
 
@@ -23,6 +23,8 @@ To navigate to my notes I would type cd HomeworkHochRobinson
 I cloned the directory into my home directory so that would get me to the folder with my notes. To get back to my home directory I could type cd or cd ..
 
 There are a lot of folders in my home directory like downloads, documents, photos, applicaitons, and some old git repos.
+
+
 
 ## 2.
 
