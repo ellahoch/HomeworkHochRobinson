@@ -42,7 +42,7 @@ Running stat myfile.txt details the history of the file, like when it was create
 
 ## 5.
 
-ls -l gives me information about the directory each file is stored in as well as when it was last changed.
+ls -l gives me information about the directory each file is stored in as well as when it was last changed and by who.
 
 ## 7.
 
